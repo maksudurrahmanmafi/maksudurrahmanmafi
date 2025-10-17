@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hi, I'm Maksudur Rahman Mafi
 
-<!--
-**maksudurrahmanmafi/maksudurrahmanmafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a CSE student at Bogura Polytechnic Institute and passionate about software development & competitive programming.
+💻 Currently, I’m working on Flutter app development as part of my internship and continuously improving my skills in C++, DSA, and Problem Solving.
 
-Here are some ideas to get you started:
+🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: C · C++ · Python · Dart · Java · DSA
+Frontend: XML · Jetpack Compose · HTML · CSS · Flutter
+Tools: VS Code · PyCharm · Android Studio · IntelliJ IDEA · GitHub
+
+🎯 Currently
+
+📚 Studying: CSE at Bogura Polytechnic Institute
+🔭 Working on: Flutter app development projects during internship
+🌱 Learning: Machine Learning course at @Phitronio
+
+💻 Competitive Programming:
+
+🏆 [Codeforces:](https://codeforces.com/profile/maksudurrahmanmafi)
+
+🥇 [CodeChef:](https://www.codechef.com/users/maksudurrahman)
+
+
+📫 Contact Me:
+
+✉️ [Email:](maksudurrahmanmafi0@gmail.com)
+
+🔗 [LinkedIn:](https://www.linkedin.com/in/maksudur-rahman-mafi-45541038b/)
+
+🧑‍💻 [GitHub:](https://github.com/maksudurrahmanmafi)
+
+🌐 [Facebook:](https://www.facebook.com/maksudurrahman.mafi/)
