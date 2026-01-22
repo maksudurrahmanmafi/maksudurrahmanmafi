@@ -20,6 +20,8 @@ Tools: VS Code · PyCharm · Android Studio · IntelliJ IDEA · GitHub
 🏆 [Codeforces:](https://codeforces.com/profile/maksudurrahmanmafi)
 
 🥇 [CodeChef:](https://www.codechef.com/users/maksudurrahman)
+🥇 [Beecrowd:](https://judge.beecrowd.com/en/profile/1206330)
+
 
 
 📫 Contact Me:
@@ -27,7 +29,5 @@ Tools: VS Code · PyCharm · Android Studio · IntelliJ IDEA · GitHub
 ✉️ [Email:](maksudurrahmanmafi0@gmail.com)
 
 🔗 [LinkedIn:](https://www.linkedin.com/in/maksudur-rahman-mafi-45541038b/)
-
-🧑‍💻 [GitHub:](https://github.com/maksudurrahmanmafi)
 
 🌐 [Facebook:](https://www.facebook.com/maksudurrahman.mafi/)
