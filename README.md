@@ -1,8 +1,13 @@
-# 💫 About Me:
-👋 Hi, I'm Maksudur Rahman Mafi<br><br>🎓 I'm a CSE student at Bogura Polytechnic Institute and passionate about software development & competitive programming.<br>💻 Currently, I’m working on Flutter app development as part of my internship and continuously improving my skills in C++, DSA, and Problem Solving.<br><br>🛠️ Skills<br><br>Languages: C · C++ · Python · Dart · Java · DSA<br>Frontend: XML · Jetpack Compose · HTML · CSS · Flutter<br>Tools: VS Code · PyCharm · Android Studio · IntelliJ IDEA · GitHub<br><br>🎯 Currently<br><br>📚 Studying: CSE at Bogura Polytechnic Institute<br>🔭 Working on: Flutter app development projects during internship<br>🌱 Learning: Machine Learning course at @Phitronio<br><br><br>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:7F52FF,100:4285F4&height=180&section=header&text=Maksudur%20Rahman%20Mafi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+#About Me:
+👋 Hi, I'm Maksudur Rahman Mafi<br><br>🎓 I'm a CSE student at Bogura Polytechnic Institute and passionate about software development & competitive programming.<br>💻 Currently, I’m working on Flutter app development as part of my internship and continuously improving my skills in C++, DSA, and Problem Solving.<br><br> Currently<br><br>📚 Studying: CSE at Bogura Polytechnic Institute<br>🔭 Working on: Flutter app development projects during internship<br>🌱 Learning: Machine Learning course at @Phitronio<br><br><br>
 ##💻 Competitive Programming:<br><br>
 🏆 [Codeforces:](https://codeforces.com/profile/maksudurrahmanmafi)<br>
-<br>🥇 [CodeChef:](https://www.codechef.com/users/maksudurrahman)<br>
+🥇 [CodeChef:](https://www.codechef.com/users/maksudurrahman)<br>
 🥇 [Beecrowd:](https://judge.beecrowd.com/en/profile/1206330)<br>
 <br>
 
