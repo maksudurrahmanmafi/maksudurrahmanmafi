@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:7F52FF,100:4285F4&height=180&section=header&text=Maksudur%20Rahman%20Mafi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=200&section=header&text=Maksudur%20Rahman%20Mafi&fontSize=45&fontColor=70a5fd&animation=fadeIn&desc=Web%20Developer&descAlignY=62&descSize=20&descColor=a9b1d6" />
 </p>
 
 #About Me:
