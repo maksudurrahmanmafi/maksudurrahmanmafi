@@ -4,7 +4,7 @@
 </p>
 
 #About Me:
-👋 Hi, I'm Maksudur Rahman Mafi<br><br>🎓 I'm a CSE student at Bogura Polytechnic Institute and passionate about software development & competitive programming.<br>💻 Currently, I’m working on Flutter app development  and continuously improving my skills in C++, DSA, and Problem Solving.<br><br> Currently<br><br>📚 Studying: pundra university of science and technology <br>🔭 Working on: Web Development <br><br>
+👋 Hi, I'm Maksudur Rahman Mafi<br><br>🎓 I'm a CSE student at Pundro University (PUB) and passionate about software development & competitive programming.<br>💻 Currently, I’m working on Flutter app development  and continuously improving my skills in C++, DSA, and Problem Solving.<br><br> Currently<br><br>📚 Studying: pundra university of science and technology <br>🔭 Working on: Web Development <br><br>
 ##💻 Competitive Programming:<br><br>
 🏆 [Codeforces:](https://codeforces.com/profile/maksudurrahmanmafi)<br>
 🥇 [CodeChef:](https://www.codechef.com/users/maksudurrahman)<br>
